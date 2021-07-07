@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\excelsoft\Examples\GameApp\bin\Debug\GameApp.exe.config
+C:\Users\user\source\repos\excelsoft\Examples\GameApp\bin\Debug\GameApp.exe
+C:\Users\user\source\repos\excelsoft\Examples\GameApp\bin\Debug\GameApp.pdb
+C:\Users\user\source\repos\excelsoft\Examples\GameApp\obj\Debug\GameApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\excelsoft\Examples\GameApp\obj\Debug\GameApp.exe
+C:\Users\user\source\repos\excelsoft\Examples\GameApp\obj\Debug\GameApp.pdb
