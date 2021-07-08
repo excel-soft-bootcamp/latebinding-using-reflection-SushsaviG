@@ -1,6 +1,0 @@
-C:\Users\sushma.g\Documents\GameApp\AdvancedLevelLib\bin\Debug\AdvancedLevelLib.dll
-C:\Users\sushma.g\Documents\GameApp\AdvancedLevelLib\bin\Debug\AdvancedLevelLib.pdb
-C:\Users\sushma.g\Documents\GameApp\AdvancedLevelLib\obj\Debug\AdvancedLevelLib.csproj.CoreCompileInputs.cache
-C:\Users\sushma.g\Documents\GameApp\AdvancedLevelLib\obj\Debug\AdvancedLevelLib.dll
-C:\Users\sushma.g\Documents\GameApp\AdvancedLevelLib\obj\Debug\AdvancedLevelLib.pdb
-C:\Users\sushma.g\Documents\GameApp\AdvancedLevelLib\obj\Debug\AdvancedLevelLib.csproj.AssemblyReference.cache

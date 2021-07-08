@@ -1,6 +1,0 @@
-C:\Users\sushma.g\Documents\GameApp\IntermediateLevelLib\bin\Debug\IntermediateLevelLib.dll
-C:\Users\sushma.g\Documents\GameApp\IntermediateLevelLib\bin\Debug\IntermediateLevelLib.pdb
-C:\Users\sushma.g\Documents\GameApp\IntermediateLevelLib\obj\Debug\IntermediateLevelLib.csproj.CoreCompileInputs.cache
-C:\Users\sushma.g\Documents\GameApp\IntermediateLevelLib\obj\Debug\IntermediateLevelLib.dll
-C:\Users\sushma.g\Documents\GameApp\IntermediateLevelLib\obj\Debug\IntermediateLevelLib.pdb
-C:\Users\sushma.g\Documents\GameApp\IntermediateLevelLib\obj\Debug\IntermediateLevelLib.csproj.AssemblyReference.cache
