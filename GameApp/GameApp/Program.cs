@@ -21,9 +21,9 @@ namespace GameApp
             //String Interpollation 
             string displayMessage = $"Enter Your Choice {(int)Options.BASIC}->Basic,{(int)Options.INTERMEDIATE}->Intermediate,{(int)Options.ADVANCED}->Advanced";
             Console.WriteLine(displayMessage);
-            Options _choice = (Options)Int32.Parse(Console.ReadLine());
+            
             try
-            {
+            {Options _choice = (Options)Int32.Parse(Console.ReadLine());
                 switch (_choice)
                 {
                     case Options.BASIC:
