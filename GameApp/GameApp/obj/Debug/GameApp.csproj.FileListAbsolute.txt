@@ -1,0 +1,7 @@
+C:\Users\sushma.g\Documents\GameApp\GameApp\bin\Debug\GameApp.exe.config
+C:\Users\sushma.g\Documents\GameApp\GameApp\bin\Debug\GameApp.exe
+C:\Users\sushma.g\Documents\GameApp\GameApp\bin\Debug\GameApp.pdb
+C:\Users\sushma.g\Documents\GameApp\GameApp\obj\Debug\GameApp.csproj.AssemblyReference.cache
+C:\Users\sushma.g\Documents\GameApp\GameApp\obj\Debug\GameApp.csproj.CoreCompileInputs.cache
+C:\Users\sushma.g\Documents\GameApp\GameApp\obj\Debug\GameApp.exe
+C:\Users\sushma.g\Documents\GameApp\GameApp\obj\Debug\GameApp.pdb
